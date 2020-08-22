@@ -4,6 +4,16 @@
 
 </div>
   
+## :smile: YongKwon Kim - 김 용 권
+- software engineer
+
+## Lanuages & Skill
+- HTML
+- CSS
+- JavaScript
+- React.js
+- c / c++
+
 <!--
 **powderBlue91/powderBlue91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
