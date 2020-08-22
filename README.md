@@ -2,7 +2,7 @@
 	
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FpowderBlue91&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false"/></a>
 
-</div>
+
   
 ## :smile: YongKwon Kim - 김 용 권
 - software engineer
@@ -12,8 +12,6 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/47877911/88287732-af825c80-cd2d-11ea-9a56-bf85549e3fc4.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288767-33891400-cd2f-11ea-81cd-b6a089ab4a24.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288382-aa71dd00-cd2e-11ea-8fc2-a1f7ae93de63.png"></code>
-
-<div align = center>
 	
 ![YongKwon's github stats](https://github-readme-stats.vercel.app/api?username=powderBlue91&show_icons=true&hide_border=true)
 
