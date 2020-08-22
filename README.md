@@ -1,5 +1,9 @@
-### Hi there 👋
+<div align=center>
+	
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FpowderBlue91&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false"/></a>
 
+</div>
+  
 <!--
 **powderBlue91/powderBlue91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
