@@ -5,7 +5,7 @@
 
   
 ## :smile: YongKwon Kim - 김 용 권
-Software Engineer
+<b>Software Engineer</b>
 
 <code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288770-3421aa80-cd2f-11ea-9972-ab7e1ac2b89d.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288764-31bf5080-cd2f-11ea-9291-24a90a43acc9.png"></code>
