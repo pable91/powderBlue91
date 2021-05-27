@@ -21,7 +21,7 @@
 </div>
 
 
-👍 interest
+👍 interested in
 - backend
 - Spring, SpringBoot
 - Java, C++
